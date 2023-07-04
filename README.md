@@ -1,2 +1,1 @@
-# Chess
-#skillfactory
+for Skillfactory
